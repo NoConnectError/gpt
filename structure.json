@@ -1,0 +1,40 @@
+{
+    "GPT": {
+        "db": {
+            "profiles": {},
+            "projects": {
+                "commander": {},
+                "dev_stack": {
+                    "db": {},
+                    "docker": {
+                        "__files__": [
+                            "instruction.txt"
+                        ]
+                    },
+                    "git": {},
+                    "site": {}
+                },
+                "eng_teacher": {
+                    "__files__": [
+                        "instruction.txt"
+                    ]
+                },
+                "MindMap": {
+                    "__files__": [
+                        "instruction.txt"
+                    ]
+                }
+            }
+        },
+        "skeleton": {
+            "__files__": [
+                "get_structure.py",
+                "structure.json"
+            ]
+        },
+        "__files__": [
+            "chat_history.json",
+            "context.json"
+        ]
+    }
+}
